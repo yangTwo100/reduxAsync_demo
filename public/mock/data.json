@@ -1,0 +1,95 @@
+{
+    "data": [
+      {
+        "page_id": "5a4384978000862471d15b7b",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/d633b8f7-d426-41ba-ad8a-7a11ed129d27",
+          "discuss_num": 85019,
+          "name": "肌肤之钥 clé de Peau Beauté"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a43849a8000862471d1600f",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/0285c6ad-e8c8-400d-865f-02b233d87d55",
+          "discuss_num": 14440,
+          "name": "珂莱欧 CLUBCLIO"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a4384808000862471d13f59",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/57e9f17b-9f49-4772-9ef6-9c5c35e02355",
+          "discuss_num": 70660,
+          "name": "汤姆·福特 TOM FORD"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a43849b8000862471d16064",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/bd5e9997-3073-4dc4-aed7-4ca5f9974595",
+          "discuss_num": 15133,
+          "name": "苏秘37° su:m37°"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a4384888000862471d1493d",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/0f6b3861-a1c1-424c-83f4-e8b9b7644e71",
+          "discuss_num": 110743,
+          "name": "ZARA"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a4384978000862471d15b6a",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/affd2a39-5e98-4a43-b63b-88b04409c9e7",
+          "discuss_num": 37701,
+          "name": "祖·玛珑 Jo Malone London"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a4384828000862471d14121",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/95ab65dd-cc9f-4d1d-b653-4c649648eda3",
+          "discuss_num": 22025,
+          "name": "凯朵 KATE"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a4384828000862471d14114",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/059ae3da-d213-4df3-bdee-e0344b012ad0",
+          "discuss_num": 13779,
+          "name": "凯特丝蓓 Kate Spade"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a43848a8000862471d14bdd",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/c502d6fd-6b42-4ad3-a552-dbc6e3538d93",
+          "discuss_num": 14683,
+          "name": "小林制药 Kobayashi"
+        },
+        "page_type": "brand"
+      },
+      {
+        "page_id": "5a43848a8000862471d14be3",
+        "page_info": {
+          "banner": "http://ci.xiaohongshu.com/b82c04e9-9d35-49a6-a811-a2216823ee5e",
+          "discuss_num": 48126,
+          "name": "耐克 Nike"
+        },
+        "page_type": "brand"
+      }
+    ],
+    "success": true
+}
